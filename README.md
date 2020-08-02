@@ -1,5 +1,6 @@
 # Ambilight
 Ambilight project for monitor (handy if you watch tv, movie or a serie on your monitor from a distance)
+![Ambilight end result](IMG_20200720_232903.jpg)
 
 ## Requirements
 * Arduino Nano (or other Arduino board but the Nano is priced very low)
